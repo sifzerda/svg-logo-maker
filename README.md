@@ -1,5 +1,5 @@
 
-# SVG Logo Makerr
+# SVG Logo Maker
 
 ## Table of Contents
 
@@ -61,10 +61,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## 8. Authors and acknowledgment
 
 The author acknowledges and credits those who have contributed to this project, including:
-•	Provided Starter Code
-•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
-•	Chee Ho Tai
-•	Pranita Shrestha
+*	Provided Starter Code
+*	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
+*	Chee Ho Tai
+*	Pranita Shrestha
 
 ## 9. License
 
