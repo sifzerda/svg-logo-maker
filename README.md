@@ -34,10 +34,10 @@ https://drive.google.com/file/d/1nelmC7AoJWxpotnm5wIo5VJxdj9nnKKt/view
 Clone the Git repo and open in a code editor such as Visual Studio Code. This app runs the inquirer interface through node. 
 
 CLI Terminal commands:
-•	NODE: npm install
-•	INQUIRER: npm install inquirer
-•	JEST: npm install jest
-•	APP: node ./index.js
+- NODE: npm install
+- INQUIRER: npm install inquirer
+- JEST: npm install jest
+- APP: node ./index.js
 
 Link to GitHub Repo:
 
